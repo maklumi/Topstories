@@ -60,6 +60,8 @@ class FeedAdapter(context: Context, private val layoutResource: Int, private val
         return currentView
     }
 
+
+
     private inner class ViewHolder internal constructor(v: View) {
         internal val textViewTitle: TextView = v.find(R.id.textViewTitle)
         internal val textViewDescription: TextView = v.find(R.id.textViewDescription)

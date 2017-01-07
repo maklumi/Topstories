@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Health news" android:id="@+id/menuHealthNews"/>
+    <item android:title="Entertainment and Arts" android:id="@+id/menuEntertainment"/>
+    <item android:title="World news" android:id="@+id/menuWorldNews"/>
+    <item android:title="Science and Nature" android:id="@+id/menuScienceAndNature"/>
+    <item android:title="Technology" android:id="@+id/menuTechnology"/>
+</menu>
