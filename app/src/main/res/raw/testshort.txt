@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Health]]></title>
+        <description><![CDATA[BBC News - Health]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Health</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 06 Jan 2017 06:12:28 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Social care funding: MPs urge 'swift' cross-party review]]></title>
+            <description><![CDATA[Three Commons committee chairmen demand a "political consensus" on funding social care before 2020.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38521473</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38521473</guid>
+            <pubDate>Fri, 06 Jan 2017 02:03:51 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C0EC/production/_92988394_gettyimages-77033588.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hospitals warn over pressure of patient numbers]]></title>
+            <description><![CDATA[A third of hospital trusts in England warn they need urgent action to cope with patient numbers.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38526285</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38526285</guid>
+            <pubDate>Fri, 06 Jan 2017 05:42:08 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6174/production/_93284942_mediaitem93284698.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blocked beds blight mental health care]]></title>
+            <description><![CDATA[Bed blocking in the NHS in England is much worse in mental health trusts than in acute hospitals.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38517648</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38517648</guid>
+            <pubDate>Fri, 06 Jan 2017 05:05:12 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A21A/production/_92489414_thinkstockphotos-614847788.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Salford woman donates kidney to NHS for saving husband's life]]></title>
+            <description><![CDATA[A woman is donating a kidney to a stranger to repay the NHS for saving her husband's life.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-manchester-38516136</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-manchester-38516136</guid>
+            <pubDate>Thu, 05 Jan 2017 19:02:27 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B7D1/production/_93275074_catherineobrienkidneydonorbbc.jpg"/>
+        </item>
+
+        <item>
+            <title><![CDATA[Five ways services are innovating]]></title>
+            <description><![CDATA[Ambulance services are looking at new ways to meet the growing demand.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38077408</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38077408</guid>
+            <pubDate>Tue, 29 Nov 2016 18:31:20 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B929/production/_92710474_amb_man.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Life on the frontline for paramedics]]></title>
+            <description><![CDATA[What is it like for a paramedic on the frontline?]]></description>
+            <link>http://www.bbc.co.uk/news/health-38153070</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38153070</guid>
+            <pubDate>Wed, 30 Nov 2016 02:50:53 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A93A/production/_92722334_audreybbc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What happens when someone calls 999]]></title>
+            <description><![CDATA[BBC Scotland follows a 999 call from the moment it is received by health service call handlers.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-38157230</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-38157230</guid>
+            <pubDate>Wed, 30 Nov 2016 10:43:48 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/087C/production/_92727120_p04jj6rg.jpg"/>
+        </item>
+    </channel>
+</rss>

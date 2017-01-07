@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Health]]></title>
+        <description><![CDATA[BBC News - Health]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Health</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 06 Jan 2017 06:12:28 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Social care funding: MPs urge 'swift' cross-party review]]></title>
+            <description><![CDATA[Three Commons committee chairmen demand a "political consensus" on funding social care before 2020.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-38521473</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-38521473</guid>
+            <pubDate>Fri, 06 Jan 2017 02:03:51 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C0EC/production/_92988394_gettyimages-77033588.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hospitals warn over pressure of patient numbers]]></title>
+            <description><![CDATA[A third of hospital trusts in England warn they need urgent action to cope with patient numbers.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38526285</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38526285</guid>
+            <pubDate>Fri, 06 Jan 2017 05:42:08 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6174/production/_93284942_mediaitem93284698.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blocked beds blight mental health care]]></title>
+            <description><![CDATA[Bed blocking in the NHS in England is much worse in mental health trusts than in acute hospitals.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38517648</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38517648</guid>
+            <pubDate>Fri, 06 Jan 2017 05:05:12 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A21A/production/_92489414_thinkstockphotos-614847788.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Salford woman donates kidney to NHS for saving husband's life]]></title>
+            <description><![CDATA[A woman is donating a kidney to a stranger to repay the NHS for saving her husband's life.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-manchester-38516136</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-manchester-38516136</guid>
+            <pubDate>Thu, 05 Jan 2017 19:02:27 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B7D1/production/_93275074_catherineobrienkidneydonorbbc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Give peanut to babies early - advice]]></title>
+            <description><![CDATA[Babies should be given peanut early - some at four months old - in order to reduce the risk of allergy, according to new US guidance.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38518185</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38518185</guid>
+            <pubDate>Thu, 05 Jan 2017 16:18:49 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/DA1D/production/_93273855_thinkstockphotos-636542056.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dementia rates 'higher near busy roads']]></title>
+            <description><![CDATA[People who live near major roads have higher rates of dementia, research suggests.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38506735</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38506735</guid>
+            <pubDate>Thu, 05 Jan 2017 10:09:57 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/7933/production/_93272013_mediaitem93272012.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NHS screening plan for type 2 diabetes 'inaccurate']]></title>
+            <description><![CDATA[The NHS programme for screening those at high risk of type 2 diabetes is unlikely to have much impact, according to BMJ research.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38506713</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38506713</guid>
+            <pubDate>Thu, 05 Jan 2017 05:08:53 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/148E4/production/_93269148_m7300345-dieting-spl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GM malaria vaccine 'milestone']]></title>
+            <description><![CDATA[A malaria vaccine has passed a "critical milestone" in human safety trials, say researchers]]></description>
+            <link>http://www.bbc.co.uk/news/health-38509736</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38509736</guid>
+            <pubDate>Thu, 05 Jan 2017 05:35:43 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/5F60/production/_93261442_c0264810-anopheles_stephensi-spl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New organ named in digestive system]]></title>
+            <description><![CDATA[A part of the digestive system has been reclassified as an organ - the 79th in the body.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38506708</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38506708</guid>
+            <pubDate>Wed, 04 Jan 2017 11:17:29 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/859E/production/_93260243_mesentery.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Terrorism 'first-aid training needed']]></title>
+            <description><![CDATA[People are being urged to learn lifesaving skills in case they are caught up in a terror attack.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38495234</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38495234</guid>
+            <pubDate>Wed, 04 Jan 2017 01:25:53 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/10ED3/production/_93213396_1capture.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Diet debate: Are diet drinks a no-go?]]></title>
+            <description><![CDATA[Are low-calorie sweeteners the guilt-free way to be naughty?]]></description>
+            <link>http://www.bbc.co.uk/news/health-34924036</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-34924036</guid>
+            <pubDate>Wed, 04 Jan 2017 09:29:52 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/E845/production/_87316495_thinkstockphotos-533575209.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[French baby death linked to vitamin dose]]></title>
+            <description><![CDATA[France acts to suspend the sale of a vitamin D supplement after the death of a newborn baby.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-38505538</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-38505538</guid>
+            <pubDate>Wed, 04 Jan 2017 13:07:11 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3453/production/_93259331_037102078-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Private Ambulance Service: Staff 'lacked blue light training']]></title>
+            <description><![CDATA[Some staff at a private ambulance firm say they had an hour's training to drive under blue lights.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38398244</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38398244</guid>
+            <pubDate>Wed, 04 Jan 2017 01:40:05 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A1E1/production/_93214414_mediaitem93214408.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Asthma patients 'missing out on basic care']]></title>
+            <description><![CDATA[Millions of UK asthma patients do not receive the basic care they need for their condition, a survey finds.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38497824</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38497824</guid>
+            <pubDate>Wed, 04 Jan 2017 02:20:06 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/132E1/production/_93216587_f0025467-lung_function_test-spl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Doctors issue new year detox health warning]]></title>
+            <description><![CDATA[Doctors warn of the potential harms of undertaking a radical new year detox.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38495088</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38495088</guid>
+            <pubDate>Tue, 03 Jan 2017 12:52:05 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/96A1/production/_93216583_f0157138-woman_holding_water_bottle_in_gym-spl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dentists call to end 'workplace cake culture']]></title>
+            <description><![CDATA[The sharing of sweet snacks at work is adding to the obesity problem and bad oral health in the UK, say dentists]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38491414</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38491414</guid>
+            <pubDate>Tue, 03 Jan 2017 13:32:43 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1F9A/production/_93209080_thinkstockphotos-bldcb0407cpb_1255.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kids devouring too much 'breakfast sugar' warning]]></title>
+            <description><![CDATA[Children are eating more than half their recommended daily sugar intake at breakfast time alone, health experts warn.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38467861</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38467861</guid>
+            <pubDate>Tue, 03 Jan 2017 08:26:47 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AF08/production/_93180844_sugar_in_cereal.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Honour for 83-year-old Samaritans volunteer]]></title>
+            <description><![CDATA[A Samaritans volunteer and a TV presenter-turned-dementia champion are among those awarded New Year honours.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38467858</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38467858</guid>
+            <pubDate>Fri, 30 Dec 2016 22:43:48 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CE52/production/_93181825_thinkstockphotos-526302970.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ice, Zika and babies from three people - health in 2016]]></title>
+            <description><![CDATA[This year has seen the birth of the first three-person baby, a dangerous Zika epidemic and more ground-breaking medical research.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38409089</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38409089</guid>
+            <pubDate>Fri, 30 Dec 2016 02:55:37 GMT</pubDate>
+            <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/16C60/production/_93108239_ice_bucket_cumberbatch.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Food poisoning alert as salmonella found in Aldi king prawns]]></title>
+            <description><![CDATA[Supermarket chain Aldi recalls a king prawn product from its Scottish stores after two batches were found to contain salmonella.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-38463306</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-38463306</guid>
+            <pubDate>Thu, 29 Dec 2016 18:26:53 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/BA15/production/_93173674_prawn.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Health chief's alcohol advice 'could have been better']]></title>
+            <description><![CDATA[England's chief medical officer says her advice on alcohol could have been "framed differently".]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38466507</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38466507</guid>
+            <pubDate>Fri, 30 Dec 2016 09:33:52 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/171B5/production/_88054649_de20.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Catherine O’Brien will donate her kidney to ‘repay’ NHS]]></title>
+            <description><![CDATA[Catherine O’Brien plans to donate her kidney to ‘repay’ the NHS for treating her husband’s cancer]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38521343</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38521343</guid>
+            <pubDate>Thu, 05 Jan 2017 13:23:08 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/163CF/production/_93278019_p04nfly8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tulip Mazumdar looks ahead to the top health stories of 2017]]></title>
+            <description><![CDATA[The BBC's Tulip Mazumdar takes a look ahead to what will be some of the key health-related stories in 2017.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38497449</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38497449</guid>
+            <pubDate>Tue, 03 Jan 2017 14:02:39 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1485D/production/_93216048_p04n74fs.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['An hour's training to drive an ambulance']]></title>
+            <description><![CDATA[Some staff at a private ambulance firm say they have had only an hour's training to drive under blue lights, the Victoria Derbyshire programme has learned.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38498658</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38498658</guid>
+            <pubDate>Wed, 04 Jan 2017 01:39:32 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/13363/production/_93219687_p04n75ln.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thriving with Down's syndrome: Life as Jamie Knows It]]></title>
+            <description><![CDATA[Jamie Berube was born with Down's syndrome - but thanks to his family's love and early support he's thrived.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-38500022</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-38500022</guid>
+            <pubDate>Wed, 04 Jan 2017 00:29:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/DCEB/production/_93255565_p04n8mz4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Do women make better doctors?]]></title>
+            <description><![CDATA[A US study claims that female physicians kill fewer patients than their male counterparts - study author Dr Ashish Jha and surgeon Dr Scarlett McNally discuss.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38487933</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38487933</guid>
+            <pubDate>Mon, 02 Jan 2017 10:20:54 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E5D8/production/_93204885_p04n474p.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Walking Netball clubs spring up across UK]]></title>
+            <description><![CDATA[Walking Netball clubs are springing up all over the UK - Today's Rob Bonnet visits one of them.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38487667</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38487667</guid>
+            <pubDate>Mon, 02 Jan 2017 12:49:55 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/C440/production/_93204205_p04n4gt2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dame Sally Davies: I enjoy a glass of wine too]]></title>
+            <description><![CDATA[Chief Medical Officer Dame Sally Davies tells us wine guidelines aimed at low-risk people]]></description>
+            <link>http://www.bbc.co.uk/news/health-38466759</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38466759</guid>
+            <pubDate>Fri, 30 Dec 2016 09:54:00 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1636B/production/_93178909_p04my2sl.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Forceps removed from stomach after 18 years]]></title>
+            <description><![CDATA[A Vietnamese man has had surgical forceps removed from his stomach after 18 years.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-38497547</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-38497547</guid>
+            <pubDate>Tue, 03 Jan 2017 12:21:35 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11347/production/_93217407_p04n72cd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brain's party noise filter revealed by recordings]]></title>
+            <description><![CDATA[Direct recordings have revealed what happens in our brains as we make sense of speech in a noisy environment, scientists say.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-38381915</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-38381915</guid>
+            <pubDate>Tue, 20 Dec 2016 16:40:15 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A662/production/_93049524_mediaitem93049522.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The nuts?]]></title>
+            <description><![CDATA[A record number of people have signed up for Veganuary - swerving meat and dairy for January - but does it do any good?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38506418</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38506418</guid>
+            <pubDate>Wed, 04 Jan 2017 15:31:59 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9502/production/_93264183_nuts_pa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[One hospital's fight with care shortfall]]></title>
+            <description><![CDATA[A sharp rise in waits for care services is piling the pressure on the NHS in England, hospital bosses are warning.]]></description>
+            <link>http://www.bbc.co.uk/news/health-37409363</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-37409363</guid>
+            <pubDate>Mon, 19 Sep 2016 15:40:58 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/966E/production/_91301583_mediaitem91301581.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What's the cost of care in your area?]]></title>
+            <description><![CDATA[As we live longer, many of us will need support in our old age but what are the costs involved?]]></description>
+            <link>http://www.bbc.co.uk/news/health-37307856</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-37307856</guid>
+            <pubDate>Tue, 13 Sep 2016 12:59:53 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C8D1/production/_91190415_care_calculator_superpromo_1024x562_v6.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The alternatives to traditional care]]></title>
+            <description><![CDATA[More than one million people in the UK rely on traditional forms of care - care homes, home help and nursing care - but there are plenty of other options.]]></description>
+            <link>http://www.bbc.co.uk/news/health-36533945</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-36533945</guid>
+            <pubDate>Wed, 14 Sep 2016 13:16:55 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4040/production/_91184461_home.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fall in hospital beds contributing to patient deaths]]></title>
+            <description><![CDATA[A decline in the number of hospital beds has become a key contributory factor in patient deaths, according to a leading health statistician.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38302731</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38302731</guid>
+            <pubDate>Wed, 14 Dec 2016 02:36:22 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11B4D/production/_92952527_pressassociation.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reality Check: Is social care getting more money?]]></title>
+            <description><![CDATA[Jeremy Hunt says social care is getting more money, but council leaders say they face a serious funding gap.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38157200</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38157200</guid>
+            <pubDate>Mon, 12 Dec 2016 21:40:41 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/7335/production/_92939492_elderlycare.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Do licence plate schemes cut air pollution?]]></title>
+            <description><![CDATA[For a second day, Paris is cutting car numbers according to odd or even licence plates. Do such schemes work?]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-38236926</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-38236926</guid>
+            <pubDate>Wed, 07 Dec 2016 13:18:45 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/7658/production/_92869203_7438d86a-be9d-4a7c-95fb-b0198edb4dc8.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Town or country]]></title>
+            <description><![CDATA[The air is cleaner and there is less pollution, so is a rural existence the answer to a healthy life?]]></description>
+            <link>http://www.bbc.co.uk/news/health-38520092</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38520092</guid>
+            <pubDate>Thu, 05 Jan 2017 18:25:33 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E571/production/_93273785_c0301025-feizor_yorkshire_dales_uk-spl-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Secrets of success]]></title>
+            <description><![CDATA[There are psychological tricks which can help people achieve and stick to their new year goals.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38470263</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38470263</guid>
+            <pubDate>Sun, 01 Jan 2017 10:13:45 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/603E/production/_93183642_parkexercise.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dying of grief]]></title>
+            <description><![CDATA[A broken heart is not a recognised medical condition, but there's evidence to suggest it can be fatal.]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-28756374</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-28756374</guid>
+            <pubDate>Thu, 29 Dec 2016 10:18:21 GMT</pubDate>
+            <media:thumbnail width="624" height="351" url="http://news.bbcimg.co.uk/media/images/76892000/jpg/_76892556_love-heart.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Art and dementia]]></title>
+            <description><![CDATA[Early dementia could be detected in subtle changes in art composition and brushstrokes.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38414104</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38414104</guid>
+            <pubDate>Thu, 29 Dec 2016 01:21:13 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17CC8/production/_93108479_de02.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[So long suckers]]></title>
+            <description><![CDATA[Our lingering love affair with old-fashioned cold and cough preparations.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-37976452</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-37976452</guid>
+            <pubDate>Tue, 27 Dec 2016 03:41:53 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1827C/production/_92504989_barnips.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Changing attitudes]]></title>
+            <description><![CDATA[Actress Carey Mulligan has witnessed the effects of dementia on a close family member. she believes a better understanding will help remove the stigma that surrounds it.]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-38405698</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-38405698</guid>
+            <pubDate>Tue, 27 Dec 2016 00:57:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/155D/production/_93096450_mulligan_grandmother_promo.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kitchen know-how]]></title>
+            <description><![CDATA[Teenage chefs in Lancashire are learning how to cook and the importance of preparing healthy food.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38405967</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38405967</guid>
+            <pubDate>Sat, 24 Dec 2016 02:41:02 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4FEB/production/_93095402_fleetwoodoldies.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Glimmer of hope]]></title>
+            <description><![CDATA[Thalidomide was withdrawn from sale in most countries in 1961 but was still used in the 1980s in Spain.]]></description>
+            <link>http://www.bbc.co.uk/news/world-38386021</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-38386021</guid>
+            <pubDate>Fri, 23 Dec 2016 00:50:43 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A9CD/production/_93096434_women.gif"/>
+        </item>
+        <item>
+            <title><![CDATA[Road to recovery]]></title>
+            <description><![CDATA[Three years ago Alex Lewis went from having a cold to losing his limbs - now he's going back to work as an interior designer.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-38409851</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-38409851</guid>
+            <pubDate>Thu, 22 Dec 2016 22:04:48 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/145A/production/_93101250_p04m8t35.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Double whammy]]></title>
+            <description><![CDATA[Karrie-Ann Hoppe was diagnosed with breast cancer, then she was told she was pregnant. Dealing with both conditions at once was far from easy.]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-38343494</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-38343494</guid>
+            <pubDate>Thu, 22 Dec 2016 00:16:46 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A2DF/production/_93059614_xxpdc_9575b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Shell-shocked']]></title>
+            <description><![CDATA[Retired clergy face the closure of their Church of England nursing home because it cannot find staff.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38382706</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38382706</guid>
+            <pubDate>Thu, 22 Dec 2016 02:32:24 GMT</pubDate>
+            <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/DE34/production/_93048865_christinelaw.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Quad quandary]]></title>
+            <description><![CDATA[Coping with one baby is hard, but what about having four newborns all together? A mother with quadruplets has some advice for new parents.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-38379801</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-38379801</guid>
+            <pubDate>Tue, 20 Dec 2016 23:49:52 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2869/production/_93054301_quadrupletsthree.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ambulances 'too slow to 999 calls']]></title>
+            <description><![CDATA[Ambulance services are struggling to reach the seriously ill quickly enough after rising demand has left the system over-stretched, a BBC investigation has found.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38077409</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38077409</guid>
+            <pubDate>Wed, 30 Nov 2016 15:24:27 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/20D1/production/_92710480_amb_stretcher.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five ways services are innovating]]></title>
+            <description><![CDATA[Ambulance services are looking at new ways to meet the growing demand.]]></description>
+            <link>http://www.bbc.co.uk/news/health-38077408</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38077408</guid>
+            <pubDate>Tue, 29 Nov 2016 18:31:20 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B929/production/_92710474_amb_man.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Life on the frontline for paramedics]]></title>
+            <description><![CDATA[What is it like for a paramedic on the frontline?]]></description>
+            <link>http://www.bbc.co.uk/news/health-38153070</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-38153070</guid>
+            <pubDate>Wed, 30 Nov 2016 02:50:53 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A93A/production/_92722334_audreybbc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What happens when someone calls 999]]></title>
+            <description><![CDATA[BBC Scotland follows a 999 call from the moment it is received by health service call handlers.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-38157230</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-38157230</guid>
+            <pubDate>Wed, 30 Nov 2016 10:43:48 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/087C/production/_92727120_p04jj6rg.jpg"/>
+        </item>
+    </channel>
+</rss>
